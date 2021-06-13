@@ -66,6 +66,9 @@ Print settings:
 ## Schematic
 ![](images/schematic.png)
 
+PCB
+
+![PCB](images/pcb.jpg)
 
 ### Electrical adjustments
 
@@ -75,6 +78,9 @@ Print settings:
 ## Assembly
 The lamp made of 4 main parts and there's absolutely no way to assemble it wrong.
 
+### Rack assemly
+![Rack assembly](images/rack.jpg)
+
 Use [photos](/images) for reference.
 
 
@@ -82,27 +88,20 @@ Use [photos](/images) for reference.
 
 You have to print about 20 [rollers](STL/roller.stl)
 
-Rollers have shape of truncated cones. 
+Rollers have shape of truncated cones.
 It is important to orient them properly inside the bearing.
 
-![](images/bearing.png)
+**All cone tops should face towards the [inner race](STL/inner_race.stl)**
 
-**All cone tops should face towards inner race.**
+![](images/bearing.png)
 
 
 *Optional* Lubricate the bearing and gears with a plastic-safe grase. Lithium grease will work just fine.
 
----
-### Credits
+## Credits
 
 * Moon light shade is from [thingiverse](https://www.thingiverse.com/thing:3532973)
 
 * Roller bearing design inspired by [this model](https://www.thingiverse.com/thing:2375124)
 
-
-The rest parts are my original design.
-
-Licence: Apache 2.0
-
-
-
+* The rest parts are my original design. License: Apache 2.0
