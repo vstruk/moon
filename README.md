@@ -5,6 +5,12 @@ https://user-images.githubusercontent.com/3380101/121823841-a0b1da80-cc5c-11eb-8
 
 Rotation speed is adjustable.
 
+**UPDATE**: Github just have disabled download of large files from the repo.
+Too much traffic for a free account. So STL's might be unavailable.
+Here is a snapshot of the repo uploaded to google drive:
+
+https://drive.google.com/uc?id=1VlWB1GTHxwQJGdGt_Hk_-geuGluk5-hF&export=download
+
 ## Build guidelines
 
 Start with printing the moon itself.
